@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+p {
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: x-large;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(210, 226, 140);
+    color: rgb(83, 75, 75);
+    font-family: 'Fira Sans', sans-serif;
+}
+
+img {
+    width: 400px;;
+    border-radius: 50%;
+}
+
+span {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: red;
+}
